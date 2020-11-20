@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/Rafli/bot-rafli
+> git clone https://github.com/rafli/bot-rafli
 > cd bot-rafli
 > bash install.sh
 > node index.js
